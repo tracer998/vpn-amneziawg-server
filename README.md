@@ -50,6 +50,7 @@ Secure Linux VPN server based on AmneziaWG 2.0 with server hardening, network co
 - SSH
 - DNS
 <<<<<<< HEAD
+<<<<<<< HEAD
 - UFW
 - Fail2Ban
 
@@ -80,5 +81,7 @@ Secure Linux VPN server based on AmneziaWG 2.0 with server hardening, network co
 - DNS
 - UFW
 - Fail2Ban
+=======
+>>>>>>> parent of 481013b (ad new directories)
 =======
 >>>>>>> parent of 481013b (ad new directories)
