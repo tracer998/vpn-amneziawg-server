@@ -70,7 +70,7 @@ Secure Linux VPN server based on AmneziaWG 2.0 with server hardening, network co
 - тестирование работы VPN
 
 Используемые технологии:
-- Ubuntu
+- Ubuntu 24.04
 - WireGuard
 - AmneziaWG 2.0
 - iptables
