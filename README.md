@@ -42,10 +42,10 @@ Secure Linux VPN server based on AmneziaWG 2.0 with server hardening, network co
             └────────────┘
 
 ## Technologies
--Ubuntu
--WireGuard
--AmneziaWG 2.0
--iptables
--systemd
--SSH
--DNS
+- Ubuntu
+- WireGuard
+- AmneziaWG 2.0
+- iptables
+- systemd
+- SSH
+- DNS
