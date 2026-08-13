@@ -49,3 +49,33 @@ Secure Linux VPN server based on AmneziaWG 2.0 with server hardening, network co
 - systemd
 - SSH
 - DNS
+- UFW
+- Fail2Ban
+
+
+# Проект: Личный AmneziaWG VPS 
+
+# Цель:
+Развернуть собственный VPN-сервер на Ubuntu VPS с использованием AmneziaWG 2.0.
+
+Что реализовано:
+- обновление Ubuntu
+- настройка SSH
+- изменение порта SSH
+- настройка UFW
+- настройка Fail2Ban
+- установка AmneziaWG 2.0
+- настройка двух клиентов
+- проверка подключения
+- тестирование работы VPN
+
+Используемые технологии:
+- Ubuntu
+- WireGuard
+- AmneziaWG 2.0
+- iptables
+- systemd
+- SSH
+- DNS
+- UFW
+- Fail2Ban
